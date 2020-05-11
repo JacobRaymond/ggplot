@@ -10,7 +10,7 @@ library(mapproj)
 #See console.cloud.google.com
 
 #Register key
-register_google(key="AIzaSyAvDjy7f4gUx3LROJadM9Fp1zx29uIrP2U") #DELETE KEY
+register_google(key="AIzaSyAvDjy7f4gUx3LROJadM9Fp1zx29uIrP2U") #Key has been desactivated and won't function
 
 #### Introduction to ggmap ####
 
